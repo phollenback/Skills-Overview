@@ -14,7 +14,7 @@
   
 <th>Encapsulation</th>
 <th>Polymorphism</th>
-<th>Inheritence</th>
+<th><a href="">Inheritence</a></th>
 <th>Abstraction</th>
   
 </tr>
