@@ -14,7 +14,7 @@
   
 <th>Encapsulation</th>
 <th>Polymorphism</th>
-<th><a href="">Inheritence</a></th>
+<th><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Inheritance/Readme.md#inheritence">Inheritence</a></th>
 <th>Abstraction</th>
   
 </tr>
