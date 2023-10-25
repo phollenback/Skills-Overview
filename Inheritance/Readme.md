@@ -18,15 +18,39 @@
 </table>
 <table>
   <th width="500">
--  Inheritence is an important principle because it helps to model real world relationships between objects. In this example the UML illustrates that the "Gun" and "Bomb" class are types of a "Weapon".
+
+    
+-  Inheritence is an important principle because it helps to model real world relationships between objects. In this example the UML illustrates that the "Oval", "Circle" and "Triangle" class are types of "Shape".
 
 
 --------------------
 
 
--  The interface class is used to enforce what the derived classes implement
+-  Inheritence is also a powerful tool when combined with the concepts of 'overriding' and 'overloading' methods, which allows the child classes to provide unique behaviors as well as handle specific data types when developing derived classes.
   </th>
-  <th width="500">
-    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/3279c0f4-b8cd-4b9d-a3b7-965a9a88e406" width="1000" height="375">
+  <th width="510">
+    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/9639161b-6b2f-468b-9dea-c01a2b25326b" width="1000" height="375">
   </th>
 </table>
+
+
+
+```
+public class Circle extends ShapeBase {
+
+	private double radius;
+
+	public Circle(String name, int width, int height, double radius) 
+	{
+		super(name, height, height);
+		this.radius = radius;
+	}
+	@Override
+	public double calculateArea() 
+	{
+		
+		return 3.14 * this.radius;
+	}
+
+}
+```
