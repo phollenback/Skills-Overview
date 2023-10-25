@@ -26,14 +26,14 @@
 --------------------
 
 
--  Inheritence is also a powerful tool when combined with the concepts of 'overriding' and 'overloading' methods, which allows the child classes to provide unique behaviors as well as handle specific data types when developing derived classes.
+-  Inheritence is also a powerful tool when combined with the concepts of 'overriding' and 'overloading' methods alongside the implementation of interfaces. This allows the child classes to provide unique behaviors as well as handle specific data types when developing derived classes.
   </th>
-  <th width="510">
-    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/9639161b-6b2f-468b-9dea-c01a2b25326b" width="1000" height="375">
+  <th width="565">
+    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/d54f9078-ae26-4980-a560-3b1d7709fb01)" width="1000" height="375">
   </th>
 </table>
 
-
+<h3 align="center">Implementation within a project</h3>
 
 ```
 public class Circle extends ShapeBase {
@@ -42,7 +42,7 @@ public class Circle extends ShapeBase {
 
 	public Circle(String name, int width, int height, double radius) 
 	{
-		super(name, height, height);
+		super(name, width, height);
 		this.radius = radius;
 	}
 	@Override
@@ -54,3 +54,4 @@ public class Circle extends ShapeBase {
 
 }
 ```
+This code exemplifies the significance of inherited classes. Because the circle class inherits from the base "Shape" class, it has some, but not all of the correct properties to implement the method within the "ShapeInterface" class. Since the name, width, and height properties can be defined using the "super" keyword to access its base class constructor, as well as add a property (in this case radius) in order to correctly calculate the area of the circle.
