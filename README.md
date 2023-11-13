@@ -46,21 +46,28 @@
 
 </tr> 
 </table>
-
 <table>
   <tr>
   <th width="500">
     <h2 align="center">HTML Project:</h3>
-    <img src="">
+    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/69e92b39-bdb0-4b32-b1f5-2452d46b64ea">
   </th>
   <th width="500">
     <h2 align="cener">SQL Project:</h3>
   </th>
   </tr>
+  <tr>
     <td>
-      dlkj
+      A multi-paged HTML project about what there is to do in the Pheonix area.
+      What I displayed in this project: Bootstrap, CSS, and JavaScript knowledge.
     </td>
-    <td>
-      lkdfj
+      
+    
+    
   </tr>
+    
+
+      
+      
 </table>
+      
