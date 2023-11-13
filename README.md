@@ -15,7 +15,7 @@
 <th width="250"><a href="">Encapsulation</a></th>
 <th width="250"><a href="">Polymorphism</a></th>
 <th width="250"><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Inheritance/Readme.md#inheritence">Inheritence</a></th>
-<th width="250"><a href="">Abstraction</a></th>
+<th width="250"><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Abstraction/Abstraction.md#abstraction">Abstraction</a></th>
   
 </tr>
 <tr>
