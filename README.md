@@ -12,10 +12,10 @@
 <table>
 <tr>
   
-<th>Encapsulation</th>
-<th>Polymorphism</th>
-<th><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Inheritance/Readme.md#inheritence">Inheritence</a></th>
-<th>Abstraction</th>
+<th width="250">Encapsulation</th>
+<th width="250">Polymorphism</th>
+<th width="250"><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Inheritance/Readme.md#inheritence">Inheritence</a></th>
+<th width="250">Abstraction</th>
   
 </tr>
 <tr>
