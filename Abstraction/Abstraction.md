@@ -1,4 +1,9 @@
+<h1 align="center">Abstraction</h1>
+
+---
 Abstraction is easily explainable, and hard to implement. An easy way to explain to a beginner how abstraction is implemented is to show them an complex application's main method. For example this main method is implemented in a mock console store.
+---
+
 ```
     boolean live = true;
 		// While store is still 'active'
@@ -81,3 +86,8 @@ Abstraction is easily explainable, and hard to implement. An easy way to explain
 	}
 
 ```
+
+
+---
+This snippet is a good example of abstraction because it makes the main method far more readable about what is done on each user input rather than unnecessarily long implementation inside the method, and it hides the details of each process implementation.
+---
