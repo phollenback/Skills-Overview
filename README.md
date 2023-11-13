@@ -54,7 +54,7 @@
   </th>
   <th width="500">
     <h2 align="cener">SQL Project:</h3>
-<img src="">
+<img src="https://github.com/phollenback/Skills-Overview/assets/145724342/2e6ca490-754d-48d6-a221-10235a36d725">
 
   </th>
   </tr>
