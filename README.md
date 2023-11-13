@@ -54,6 +54,8 @@
   </th>
   <th width="500">
     <h2 align="cener">SQL Project:</h3>
+<img src="">
+
   </th>
   </tr>
   <tr>
@@ -61,9 +63,9 @@
       A multi-paged HTML project about what there is to do in the Pheonix area.
       What I displayed in this project: Bootstrap, CSS, and JavaScript knowledge.
     </td>
-      
-    
-    
+    <td>
+      SQL C# app that connects the database to the datagrid view and dynamically adds and supports CRUD operations.
+    </td>
   </tr>
     
 
