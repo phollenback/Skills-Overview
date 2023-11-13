@@ -21,26 +21,26 @@
 <tr>
 <td>
   
-* Video of Principle Description
-* How I've applied it previously
+* Why is Encapsulation an important part of OOP
+* Class diagram that represents Encapsulation
 
 </td>
 <td>
 
-* Video of Principle Description
-* Ways I have used Polymorphism to enhance coding solutions
+* Class diagram
+* Enhancing Polymorphism with method overriding and overloading
 
 </td>
 <td>
 
-* Why is Inheritence important?
-* How have I applied inheritence
+* How is Inheritence applied in class diagrams?
+* How I have applied Inheritence in my own work
  
 </td>
 <td>
 
-* How is abstraction applied to programming?
-* How I've applied it in the past.
+* What is Abstraction
+* Examples in my own projects
   
 </td>
 
@@ -48,10 +48,19 @@
 </table>
 
 <table>
+  <tr>
   <th width="500">
-    <h2 align="center">UML Class Design</h3>
+    <h2 align="center">HTML Project:</h3>
+    <img src="">
   </th>
   <th width="500">
-    <h2 align="cener">Flowcharts</h3>
+    <h2 align="cener">SQL Project:</h3>
   </th>
+  </tr>
+    <td>
+      dlkj
+    </td>
+    <td>
+      lkdfj
+  </tr>
 </table>
