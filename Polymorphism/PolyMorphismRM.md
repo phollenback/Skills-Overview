@@ -26,10 +26,14 @@ private static void displayArea(ShapeBase shape)
   </th>
 </table>
 <br>
-<br>
 <table>
-  <th>Overridding</th>
-  <th>Overloading</th>
-  <td>000</td>
-  <td>111</td>
+<tr>
+	<th width="500">Overridding</th>
+	<th width="500">Overloading</th>
+</tr>
+<tr>
+	<td width="500" align="center">Method overriding allows the types of a base class to create a type-specific implementation of the bahavior that goes with a certain group of objects, and will be ran when the object morphs at runtime.</td>
+ 	<td width="500" align="center">When overloading methods, it enhances polymorphic behavior even futher. By implementing multiple methods with different arguements and return types it allows for any parameter to be passed in order to produce a desireable result.</td>
+</tr>
+  
 </table>
