@@ -1,4 +1,12 @@
-<h1 align="left">HTML + CSS project</h1>
+<table>
+  <th width="500">
+    <h1 align="left">HTML + CSS project</h1>
+  </th>
+  <th width="500">
+    In this project I incorper
+  </th>
+</table>
+
 <table>
   <th width="500" align="left">
     This project has a bootstrap extension which allowed me to easily include button groups, navbar's, toggling content carousels and flexbox containers.
