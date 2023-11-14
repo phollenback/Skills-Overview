@@ -2,7 +2,7 @@
 
 <table>
   <th>
-    <img>
+    <img width="1300" src="https://github.com/phollenback/Skills-Overview/assets/145724342/15481f85-d094-48bf-8d01-196ad506e7e4">
   </th>
   <th align="right">
     Combining my knowledge of MySQL with GUI development in order to create a user friendly database manager application. All data in this project was created with mockoroo in order to get large data sets.
