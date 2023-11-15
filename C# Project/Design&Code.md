@@ -14,7 +14,7 @@
     ldkjf
   </th>
    <th width="250">
-    <img src="">
+    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
   </th>
    <th width="250">
     <img src="">
