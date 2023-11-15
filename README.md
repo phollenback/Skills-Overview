@@ -65,7 +65,7 @@
       What I displayed in this project: Bootstrap, CSS, and JavaScript knowledge.
     </td>
     <td>
-      dlkfjd
+     A console application with a Store Front for the Gamer User to purchase and delete purchases. This project demonstrates my application of all OOP and UML and flowchart design.
     </td>
   </tr>
  
