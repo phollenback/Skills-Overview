@@ -1,4 +1,13 @@
-<h1 align="left">C# Inventory Project</h1>
+<table>
+  <th width="200">
+    <h1 align="left">C# Inventory Project </h1>
+  </th>
+  <th align="left">
+    This program demonstrates my knowledge of event driven programming, UI design, and class modeling.
+  </th>
+
+</table>
+
 
 <table>
   <th width="500">
@@ -11,15 +20,15 @@
 </table>
 <table>
   <th width="250">
-    ldkjf
+    The UI consists of a inventory gathered from a file, incrementing and decrementing the quantity of each album, searching for specific titles, and adding and deleting any given album.
   </th>
    <th width="250">
     <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
   </th>
    <th width="250">
-    <img src="">
+    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/38ad8a72-eb12-469c-bbfb-23983da63930">
   </th>
    <th width="250">
-    dlfjkd
+    There is a created form for each album that can be selected in the main form which brings up extra information and a rating of the selected album.
   </th>
 </table>
