@@ -6,6 +6,6 @@
     <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/be3df839-627b-45fc-bc1c-1b72213d81f2">
   </th>
   <th width="500">
-    <img>
+    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/45b802ee-1dff-42bd-b452-981c7ede7a14">
   </th>
 </table>
