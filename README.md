@@ -53,11 +53,11 @@
     <h2 align="center">HTML Project:</h3>
     <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/69e92b39-bdb0-4b32-b1f5-2452d46b64ea">
   </th>
-  <th width="500">
-    <h2 align="cener">SQL Project:</h3>
-<img src="https://github.com/phollenback/Skills-Overview/assets/145724342/2e6ca490-754d-48d6-a221-10235a36d725">
-
-  </th>
+    <th width="500">
+      <h2 align="center">JAVA Store Console App</h1>
+      <img width="1000" src="https://github.com/phollenback/Skills-Overview/assets/145724342/27b4f6c6-1fe0-42a2-8ba3-805ba56d7de1">
+    </th>
+  
   </tr>
   <tr>
     <td>
@@ -65,7 +65,7 @@
       What I displayed in this project: Bootstrap, CSS, and JavaScript knowledge.
     </td>
     <td>
-      SQL C# app that connects the database to the datagrid view and dynamically adds and supports CRUD operations.
+      dlkfjd
     </td>
   </tr>
  
@@ -77,15 +77,16 @@
       <img align="center" src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
     </th>
     <th width="500">
-      <h2 align="center">JAVA Store Console App</h1>
-      <img width="1000" src="https://github.com/phollenback/Skills-Overview/assets/145724342/3cc11469-6de2-49f5-90bc-12cb42e0dc48">
-    </th>
+    <h2 align="cener">SQL Project:</h3>
+<img src="https://github.com/phollenback/Skills-Overview/assets/145724342/2e6ca490-754d-48d6-a221-10235a36d725">
+
+  </th>
   </tr>
   
   <td>
     WinForms app that demonstrates an ability to design event driven programs with a intuitive UI design.
   </td>
   <td>
-    dlfkj
+      SQL C# app that connects the database to the datagrid view and dynamically adds and supports CRUD operations.
   </td>
 </table>      
