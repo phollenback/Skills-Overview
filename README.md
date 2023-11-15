@@ -67,9 +67,14 @@
       SQL C# app that connects the database to the datagrid view and dynamically adds and supports CRUD operations.
     </td>
   </tr>
-    
-
-      
-      
+ 
 </table>
-      
+<table align="center">
+  <th>
+    C# Inventory Project
+  </th>
+  <td>
+    <img src="">
+    WinForms app that demonstrates an ability to design event driven programs with a intuitive UI design.
+  </td>
+</table>      
