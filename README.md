@@ -74,15 +74,18 @@
   <tr>
     <th width="500">
     <h2 align="center">C# Inventory Project</h2><br>
-      <img width="700" align="center" src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
+      <img align="center" src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
     </th>
     <th width="500">
-      JAVA Store Console App
-      <img src="">
+      <h2 align="center">JAVA Store Console App</h1>
+      <img width="1000" src="https://github.com/phollenback/Skills-Overview/assets/145724342/3cc11469-6de2-49f5-90bc-12cb42e0dc48">
     </th>
   </tr>
   
-  <td width="400">
+  <td>
     WinForms app that demonstrates an ability to design event driven programs with a intuitive UI design.
+  </td>
+  <td>
+    dlfkj
   </td>
 </table>      
