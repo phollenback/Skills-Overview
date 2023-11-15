@@ -46,6 +46,7 @@
 
 </tr> 
 </table>
+<h2 align="center">Projects:</h2>
 <table>
   <tr>
   <th width="500">
@@ -69,12 +70,19 @@
   </tr>
  
 </table>
-<table align="center">
-  <th>
-    C# Inventory Project
-  </th>
-  <td>
-    <img src="">
+<table>
+  <tr>
+    <th width="500">
+    <h2 align="center">C# Inventory Project</h2><br>
+      <img width="700" align="center" src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
+    </th>
+    <th width="500">
+      JAVA Store Console App
+      <img src="">
+    </th>
+  </tr>
+  
+  <td width="400">
     WinForms app that demonstrates an ability to design event driven programs with a intuitive UI design.
   </td>
 </table>      
