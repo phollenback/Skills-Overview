@@ -13,6 +13,7 @@
   <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/45b802ee-1dff-42bd-b452-981c7ede7a14"></th>
 </table>
 <h1 align="center">How I included threading:</h1>
+<p align="left">The following code snippet shows how I implemented the server side of the project that actively updates the inventory or returns the current inventory of the store back to the seperate admin app.</p>
 <table>
   <th align="left">
 
