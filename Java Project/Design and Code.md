@@ -12,3 +12,57 @@
 <table>
   <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/45b802ee-1dff-42bd-b452-981c7ede7a14"></th>
 </table>
+<h1 align="center">How I included threading:</h1>
+<table>
+  <th align="left">
+
+    
+    
+    while((inputLine = in.readLine()) != null)
+			{
+				// check length of input line
+				if(inputLine.length() == 1)
+				{
+					// if command is 'r'
+					if(inputLine.equals("r"))
+					{
+						// show that response is received
+						// create current array list
+						String json = om.writeValueAsString(im.getInventory().toArray(Saleable[]::new));
+						// pass back to client
+						out.println(json);
+					}
+					else if (inputLine.equals("q"))
+					{
+						break;
+					}
+					else 
+						out.println("Invalid command. Please retry.");
+						
+				}
+				else if (inputLine.length() > 1)	// input needs to be parsed
+				{
+					// parse string
+					String[] tokens = inputLine.split("\\|");
+						
+					// if first part of tokens is u
+					if(tokens[0].equals("u"))
+					{
+						// set second part to json string
+						String json = tokens[1];
+						// parse json side of inputLIne
+						Saleable addItem = om.readValue(json, Saleable.class);
+						// re do add item
+						im.addNewItem(addItem);
+						// echo that it worked
+						out.println("Update Successful.");
+					}
+					
+				}
+					Thread.sleep(1000);
+			}
+			cleanup();
+		} 
+  </th>
+
+</table>
