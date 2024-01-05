@@ -3,7 +3,7 @@
     <h1 align="left">HTML + CSS project</h1>
   </th>
   <th width="500">
-    In this project I incorper
+    In this project I incorperate all I learned when it comes to the bootstrap framework as well as CSS.
   </th>
 </table>
 
