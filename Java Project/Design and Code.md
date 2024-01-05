@@ -12,10 +12,9 @@
 <table>
   <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/45b802ee-1dff-42bd-b452-981c7ede7a14"></th>
 </table>
-<h1 align="center">How I included threading:</h1>
-<p align="left">The following code snippet shows how I implemented the server side of the project that actively updates the inventory or returns the current inventory of the store back to the seperate admin app.</p>
+<h1 align="center">How I included threading(Client Side):</h1>
+<p align="left">The following code snippet shows how I implemented the server side of the project in a thread class that actively updates the inventory or returns the current inventory of the store back to the seperate admin app.</p>
 <table>
-  <th align="left">
 
     
     
@@ -64,6 +63,29 @@
 			}
 			cleanup();
 		} 
-  </th>
 
+</table>
+<h1 align="center">How I implemented threading(Server Side): </h1>
+<p>Once making a command to the server, the client responds accordingly after recieving a return message that is detirmined by the previous code snippet. This snippet also utilizes Custom Exceptions which are necessary when working on larger projects such as this one.</p>
+<table>
+
+
+
+  	private String sendMessage(String msg) throws ServerCommunicationException 
+    {
+    	// print passed in message to server
+        out.println(msg);
+        
+        // check for issue with server connection
+        try 
+        {
+        	// return message from server
+			return in.readLine();
+		} 
+        catch (IOException e) 
+        {
+        	// throw server error if there is an issue with communication
+			throw new ServerCommunicationException("ERROR: Issue communicating with the server");
+		}
+    }
 </table>
