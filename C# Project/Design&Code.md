@@ -4,7 +4,7 @@
   </th>
   <th align="left">
     This program demonstrates my knowledge of event driven programming, UI design, and class modeling.
-    Currently, I'm working to transfer a version of a Minesweeper game from my current version on Windows Forms to an internet based application. In doing so I'm gaining.
+    Currently, I'm working to transfer a version of a Minesweeper game from my current version on Windows Forms to an internet based application. In doing so I'm starting work with agile and waterfall methodology in order to complete this project by the end of this current semester. By may, I will have completed and will be able to demonstrate my work with the MVC design pattern.
   </th>
 
 </table>
