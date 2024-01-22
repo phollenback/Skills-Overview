@@ -3,7 +3,7 @@
     <h1 align="left">HTML + CSS project</h1>
   </th>
   <th width="500">
-    In this project I incorperate all I learned when it comes to the bootstrap framework as well as CSS.
+    In this project I incorperate all I learned when it comes to the bootstrap framework as well as CSS. Although this project is minor in comparison to what I will be doing in the future, this project was completed almost 2 years ago in my first introduction to markup languages/programming. But, it's given me enough familiarity to apply all the design frameworks and tags to my future projects, including those I'm currently in the midst of developing, such as a java based website that emulates a blog, and a online version of "Minesweeper".
   </th>
 </table>
 
