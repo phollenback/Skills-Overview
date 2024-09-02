@@ -46,6 +46,18 @@
 
 </tr> 
 </table>
+
+<h2 align="center">Currently Working on:</h2>
+<table>
+  <tr>
+    <td width="50%">
+      I created a movie lookup service using a free movie api. Now that I have a lot of the base functionality down, I would like to go ahead and create other capabilites besides the watchlist. Such as a comparator component or login service. This SPA soley relied on react.</td>
+    <td width="50%">
+      <img width="1440" alt="Screenshot 2024-09-01 at 5 28 53 PM" src="https://github.com/user-attachments/assets/85834b28-58f4-4c5f-856e-911bf0ff5d56">
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">Projects:</h2>
 <table>
   <tr>
