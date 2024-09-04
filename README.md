@@ -8,6 +8,12 @@
 
 
 <p align = "center">A review of my knowledge of Programming Principles and the application of what I have learned in the following Languages: C#, Java, SQL, and HTML + CSS, as well as what I have learned about industry tools such as flowcharts, UML class diagrams, and GITHUB.</p>
+
+<b>****Please review my design for an upcoming project, called <i>'Pi-Piper'</i>. This project features a <i>React Native</i> frontend with a <i>node.js</i> backend, and utilizes <i>SQL</i> and <i>Excel</i> for an enhanced data preperation unit.The design can be found <a href="https://github.com/phollenback/Pi-Piper">here.</a></b>
+
+
+
+
 <h1 align = "center">Object Orientated Principles:</h1> 
 <table>
 <tr>
@@ -47,14 +53,26 @@
 </tr> 
 </table>
 
-<h2 align="center">Currently Working on:</h2>
+<br/>
+<br/>
+<h2> The following pair of projects are personal projects I've worked on recently. I set out to gain a better understanding of web servers and to learn some technologies I had not yet touched before these projects.</h2>
 <table>
   <tr>
     <td width="50%">
-      I created a movie lookup service using a free movie api. Now that I have a lot of the base functionality down, I would like to go ahead and create other capabilites besides the watchlist. Such as a comparator component or login service. This SPA soley relied on react.</td>
+      <b>In progress:</b> I created a movie cataloger using react by utilizing a movie api, it enabled me to create website to search by title of the movie and create other functionality surrounding this. Such as a watchlist creator, or the phases I am currently working on, the login service and comparator component. The source code for this project can be found <a href="">here.</a></td>
     <td width="50%">
       <img width="1440" alt="Screenshot 2024-09-01 at 5 28 53 PM" src="https://github.com/user-attachments/assets/85834b28-58f4-4c5f-856e-911bf0ff5d56">
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img width="543" alt="Screenshot 2024-09-03 at 7 41 32 PM" src="https://github.com/user-attachments/assets/982ce81f-53c2-4805-9d83-3cc256dd8f6f">
+    </td>
+    <td width="50%">
+      <b>Something you might want to use: </b> A terminal program developed in node that allows you to pick from a list of categories to get recipes, and all ingredients and instructions to cook. Some of these are pretty fancy though, so it may test your cooking abilites! Find the source code <a href="">here.</a> </td>
   </tr>
 </table>
 
