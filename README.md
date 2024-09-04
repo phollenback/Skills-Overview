@@ -12,7 +12,7 @@
 <b>****Please review my design for an upcoming project, called <i>'Pi-Piper'</i>. This project features a <i>React Native</i> frontend with a <i>node.js</i> backend, and utilizes <i>SQL</i> and <i>Excel</i> for an enhanced data preperation unit.The design can be found <a href="https://github.com/phollenback/Pi-Piper">here.</a></b>
 
 
-
+<br/>
 
 <h1 align = "center">Object Orientated Principles:</h1> 
 <table>
@@ -76,7 +76,9 @@
   </tr>
 </table>
 
-<h2 align="center">Projects:</h2>
+<br/>
+
+<h2 align="center">Other Projects:</h2>
 <table>
   <tr>
   <th width="500">
