@@ -59,7 +59,7 @@
 <table>
   <tr>
     <td width="50%">
-      <b>In progress:</b> I created a movie cataloger using react by utilizing a movie api, it enabled me to create website to search by title of the movie and create other functionality surrounding this. Such as a watchlist creator, or the phases I am currently working on, the login service and comparator component. The source code for this project can be found <a href="">here.</a></td>
+      <b>In progress:</b> I created a movie cataloger using react by utilizing a movie api, it enabled me to create website to search by title of the movie and create other functionality surrounding this. Such as a watchlist creator, or the phases I am currently working on, the login service and comparator component. The source code for this project can be found <a href="https://github.com/phollenback/MovieMan">here.</a></td>
     <td width="50%">
       <img width="1440" alt="Screenshot 2024-09-01 at 5 28 53 PM" src="https://github.com/user-attachments/assets/85834b28-58f4-4c5f-856e-911bf0ff5d56">
     </td>
