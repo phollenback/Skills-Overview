@@ -55,9 +55,14 @@
 <h2> The following few projects are personal projects I've worked on recently. I set out to gain a better understanding of web servers and to learn some technologies I had not yet touched before these projects.</h2>
 <table>
   <tr>
-    <td width="50%">
+     <td width="50%">
       <b>For my own personal use:</b>I created a web service to help users catalog there collection and wantlist according to a vinyl marketplace called discogs. For this project, I attempted to create nearly the full application in react and next in an attempt to demonstrate how to upgrade a react application to a next application.
     </td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <b>In progress:</b> I created a movie cataloger using react by utilizing a movie api, it enabled me to create website to search by title of the movie and create other functionality surrounding this. Such as a watchlist creator, or the phases I am currently working on, the login service and comparator component. The source code for this project can be found <a href="https://github.com/phollenback/MovieMan">here.</a></td>
     <td width="50%">
