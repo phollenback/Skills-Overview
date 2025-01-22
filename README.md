@@ -9,9 +9,6 @@
 
 <p align = "center">A review of my knowledge of Programming Principles and the application of what I have learned in the following Languages: C#, Java, SQL, and HTML + CSS, as well as what I have learned about industry tools such as flowcharts, UML class diagrams, and GITHUB.</p>
 
-<b>****Please review my design for an upcoming project, called <i>'Pi-Piper'</i>. This project features a <i>React Native</i> frontend with a <i>node.js</i> backend, and utilizes <i>SQL</i> and <i>Excel</i> for an enhanced data preperation unit.The design can be found <a href="https://github.com/phollenback/Pi-Piper">here.</a></b>
-
-
 <br/>
 
 <h1 align = "center">Object Orientated Principles:</h1> 
