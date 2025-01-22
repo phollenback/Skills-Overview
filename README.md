@@ -1,11 +1,12 @@
 <table align="center">
+  <th><img src="https://github.com/user-attachments/assets/e9637f70-8e8b-447b-b00a-f7049592df80" width="105" height="100"></th>
   <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/a6979dce-2673-45b3-a63c-79bbd5cc77cb" width="105" height="100"></th>
   <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/7dd5b44d-2b01-45f2-b08d-b7aa06773aed" width="105" height="100"></th>
   <th width=""><h1 align="center">Skills-Overview</h1></th>
   <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/a0e9a422-ffe7-4b9b-b878-5ec4a2996c61" width="120" height="100"></th>
   <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/1ac25e13-8bed-4dbf-bb9a-1c631fe1ede3" width="105" height="100"></th>
+  <th><img src="https://github.com/user-attachments/assets/4f457e11-030b-4c75-ac88-2221da33d615" width="105" height="100"></th>
 </table>
-
 
 <p align = "center">A review of my knowledge of Programming Principles and the application of what I have learned in the following Languages: C#, Java, SQL, and HTML + CSS, as well as what I have learned about industry tools such as flowcharts, UML class diagrams, and GITHUB.</p>
 
@@ -56,7 +57,7 @@
 <table>
   <tr>
      <td width="50%">
-      <b>For my own personal use:</b> I created a web service to help users catalog there collection and wantlist according to a vinyl marketplace called discogs. For this project, I attempted to create nearly the full application in react and next in an attempt to demonstrate how to upgrade a react application to a next application. Find all code <a href="">here</a>.
+      <b>For my own personal use:</b> I created a web service to help users catalog there collection and wantlist according to a vinyl marketplace called discogs. For this project, I attempted to create nearly the full application in react and next in an attempt to demonstrate how to upgrade a react application to a next application. Find all code <a href="https://github.com/phollenback/Recipe-Book](https://github.com/phollenback/Multi-Frontend-Discogs-Helper">here</a>.
     </td>
     <td>
       <img width="1412" alt="Image" src="https://github.com/user-attachments/assets/2dda16bd-6bf2-4985-b4ea-419552c21a3b" />
@@ -71,7 +72,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <b>Something you might want to use: </b> A terminal program developed in node that allows you to pick from a list of categories to get recipes, and all ingredients and instructions to cook. Some of these are pretty fancy though, so it may test your cooking abilites! Find the source code <a href="">here.</a>
+      <b>Something you might want to use: </b> A terminal program developed in node that allows you to pick from a list of categories to get recipes, and all ingredients and instructions to cook. Some of these are pretty fancy though, so it may test your cooking abilites! Find the source code <a href="https://github.com/phollenback/Recipe-Book">here.</a>
     </td>
     <td width="50%">
        <img width="543" alt="Screenshot 2024-09-03 at 7 41 32 PM" src="https://github.com/user-attachments/assets/982ce81f-53c2-4805-9d83-3cc256dd8f6f"></td>
