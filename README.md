@@ -8,9 +8,42 @@
   <th><img src="https://github.com/user-attachments/assets/4f457e11-030b-4c75-ac88-2221da33d615" width="105" height="100"></th>
 </table>
 
-<p align = "center">A review of my knowledge of Programming Principles and the application of what I have learned in the following Languages: C#, Java, SQL, and HTML + CSS, as well as what I have learned about industry tools such as flowcharts, UML class diagrams, and GITHUB.</p>
+<p align = "center">A review of my knowledge of Programming Principles and the application of what I have learned in the following Languages: C#, Java, SQL, and HTML + CSS, as well as what I have learned about industry tools such as flowcharts, UML class diagrams, and GITHUB. Followed by a overview of some personal projects I have made recently.</p>
 
 <br/>
+
+<h1 align="center">My most ambitious project to date, <b><i>Pi Piper</i></b></h1>
+
+<p align="center">The proposed app will fully digitize and automate the restaurant’s prep list and order management system. On the admin side of the app, it will compare prices between suppliers, generate the most cost-effective orders, and offer suggestions based on past data and current needs. Also, exclusively on the admin side will feature a prep list and ingredient CRUD tool. There will also be business insight tools by incorporating PowerBi and analyzing ingredient turnover. Development is only getting started, so keep up with my progress <a href="http://github.com/phollenback/Pi-Piper">here.</a></p>
+
+<table>
+  <th>All employees use:</th>
+  <th>Admin only:</th>
+  <tr>
+    <td align="center">
+      <h2>Prep List Creator</h3>
+      <img width="1423" height="300" alt="Image" src="https://github.com/user-attachments/assets/342f9843-dfb8-44d0-bbfe-3c41ea0faaf2" />
+    </td>
+    <td align="center">
+      <h2>Manager Dashboard</h3>
+      <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/76f30f03-c347-456c-951e-d66fadf50907" /></td>
+  </tr>
+        <tr></tr>
+  <tr>
+    <td align="center">
+      <h2>RecipeBook</h3>
+      <img width="1425" alt="Image" src="https://github.com/user-attachments/assets/e0b73e3a-d7dc-4e27-a653-8630319bae63" />
+    </td>
+    <td align="center">
+      <h2>Back of House Manager</h3>
+      <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/7414a7a4-e323-4b19-bef7-81fe506dde65" />
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+
 
 <h1 align = "center">Object Orientated Principles:</h1> 
 <table>
@@ -124,4 +157,4 @@
   <td>
       SQL C# app that connects the database to the datagrid view and dynamically adds and supports CRUD operations.
   </td>
-</table>      
+</table>
