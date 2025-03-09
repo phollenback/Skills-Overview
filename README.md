@@ -44,8 +44,46 @@
 
 <br/>
 
+<h1>Resume Reputation</h1>
+<h2 align="center">Applying to 50 jobs a day like me? Give yourself a tool to make the process less cluttered.</h1>
+<p align="center">Resume-Reputation is a tool that anyone can use to keep track of what they submit to specific employers. There's become such a need to create thousands of instances of one resume so that applicants can try and find the "keyword sweetspot". On top of that, there is also a point system that works rewards points to applicants who follow good practice POST-applying. Points are rewarded for utilizing cover letters, follow up calls, emails, and all the things that will help to get you the job, not to mention there is lots of points for landing interviews, screening calls, getting job offers, etc. In the future I want to add a global and user leaderboard that allows users to compare there "Resume Reputation" to others. Use this app to save all your resume instances in one place and compare your resume reputation to others. Keep up with my progress <a href="https://github.com/phollenback/Resume-Reputation/blob/main/README.md#resume-reputation">here.</a></p>
 
-<h1 align = "center">Object Orientated Principles:</h1> 
+
+<br />
+
+<br/>
+<h2> The following are a few personal projects from the past couple years. </h2>
+<p><i>I set out to gain a better understanding of web servers and to learn some technologies I had not yet touched before these projects, as well as make something that I can use in my daily life.</i></p>
+<table>
+  <tr>
+     <td width="50%">
+      <b>For my own personal use:</b> I created a web service to help users catalog there collection and wantlist according to a vinyl marketplace called discogs. For this project, I attempted to create nearly the full application in react and next in an attempt to demonstrate how to upgrade a react application to a next application. Find all code <a href="https://github.com/phollenback/Recipe-Book](https://github.com/phollenback/Multi-Frontend-Discogs-Helper">here</a>.
+    </td>
+    <td>
+      <img width="1412" alt="Image" src="https://github.com/user-attachments/assets/2dda16bd-6bf2-4985-b4ea-419552c21a3b" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>In progress:</b> I created a movie cataloger using react by utilizing a movie api, it enabled me to create website to search by title of the movie and create other functionality surrounding this. Such as a watchlist creator, or the phases I am currently working on, the login service and comparator component. The source code for this project can be found <a href="https://github.com/phollenback/MovieMan">here.</a></td>
+    <td width="50%">
+      <img width="1440" alt="Screenshot 2024-09-01 at 5 28 53 PM" src="https://github.com/user-attachments/assets/85834b28-58f4-4c5f-856e-911bf0ff5d56">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Something you might want to use: </b> A terminal program developed in node that allows you to pick from a list of categories to get recipes, and all ingredients and instructions to cook. Some of these are pretty fancy though, so it may test your cooking abilites! Find the source code <a href="https://github.com/phollenback/Recipe-Book">here.</a>
+    </td>
+    <td width="50%">
+       <img width="543" alt="Screenshot 2024-09-03 at 7 41 32 PM" src="https://github.com/user-attachments/assets/982ce81f-53c2-4805-9d83-3cc256dd8f6f"></td>
+  </tr>
+</table>
+
+
+<br />
+
+
+<h1 align = "center">A review of my knowledge of Object Orientated Principles:</h1> 
 <table>
 <tr>
   
@@ -85,32 +123,7 @@
 </table>
 
 <br/>
-<br/>
-<h2> The following are a few recent personal projects. I set out to gain a better understanding of web servers and to learn some technologies I had not yet touched before these projects, as well as make something that I can use in my daily life.</h2>
-<table>
-  <tr>
-     <td width="50%">
-      <b>For my own personal use:</b> I created a web service to help users catalog there collection and wantlist according to a vinyl marketplace called discogs. For this project, I attempted to create nearly the full application in react and next in an attempt to demonstrate how to upgrade a react application to a next application. Find all code <a href="https://github.com/phollenback/Recipe-Book](https://github.com/phollenback/Multi-Frontend-Discogs-Helper">here</a>.
-    </td>
-    <td>
-      <img width="1412" alt="Image" src="https://github.com/user-attachments/assets/2dda16bd-6bf2-4985-b4ea-419552c21a3b" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>In progress:</b> I created a movie cataloger using react by utilizing a movie api, it enabled me to create website to search by title of the movie and create other functionality surrounding this. Such as a watchlist creator, or the phases I am currently working on, the login service and comparator component. The source code for this project can be found <a href="https://github.com/phollenback/MovieMan">here.</a></td>
-    <td width="50%">
-      <img width="1440" alt="Screenshot 2024-09-01 at 5 28 53 PM" src="https://github.com/user-attachments/assets/85834b28-58f4-4c5f-856e-911bf0ff5d56">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>Something you might want to use: </b> A terminal program developed in node that allows you to pick from a list of categories to get recipes, and all ingredients and instructions to cook. Some of these are pretty fancy though, so it may test your cooking abilites! Find the source code <a href="https://github.com/phollenback/Recipe-Book">here.</a>
-    </td>
-    <td width="50%">
-       <img width="543" alt="Screenshot 2024-09-03 at 7 41 32 PM" src="https://github.com/user-attachments/assets/982ce81f-53c2-4805-9d83-3cc256dd8f6f"></td>
-  </tr>
-</table>
+
 
 <br/>
 
