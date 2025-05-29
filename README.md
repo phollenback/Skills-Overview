@@ -1,173 +1,131 @@
 <table align="center">
-  <th><img src="https://github.com/user-attachments/assets/e9637f70-8e8b-447b-b00a-f7049592df80" width="105" height="100"></th>
-  <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/a6979dce-2673-45b3-a63c-79bbd5cc77cb" width="105" height="100"></th>
-  <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/7dd5b44d-2b01-45f2-b08d-b7aa06773aed" width="105" height="100"></th>
-  <th width=""><h1 align="center">Skills-Overview</h1></th>
-  <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/a0e9a422-ffe7-4b9b-b878-5ec4a2996c61" width="120" height="100"></th>
-  <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/1ac25e13-8bed-4dbf-bb9a-1c631fe1ede3" width="105" height="100"></th>
-  <th><img src="https://github.com/user-attachments/assets/4f457e11-030b-4c75-ac88-2221da33d615" width="105" height="100"></th>
+  <tr>
+    <th><img src="https://github.com/user-attachments/assets/e9637f70-8e8b-447b-b00a-f7049592df80" width="105" height="100"></th>
+    <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/a6979dce-2673-45b3-a63c-79bbd5cc77cb" width="105" height="100"></th>
+    <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/7dd5b44d-2b01-45f2-b08d-b7aa06773aed" width="105" height="100"></th>
+    <th><h1 align="center">Skills Overview</h1></th>
+    <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/a0e9a422-ffe7-4b9b-b878-5ec4a2996c61" width="120" height="100"></th>
+    <th><img src="https://github.com/phollenback/Skills-Overview/assets/145724342/1ac25e13-8bed-4dbf-bb9a-1c631fe1ede3" width="105" height="100"></th>
+    <th><img src="https://github.com/user-attachments/assets/4f457e11-030b-4c75-ac88-2221da33d615" width="105" height="100"></th>
+  </tr>
 </table>
 
-<p align = "center">A review of my knowledge of Programming Principles and the application of what I have learned in the following Languages: C#, Java, SQL, and HTML + CSS, as well as what I have learned about industry tools such as flowcharts, UML class diagrams, and GITHUB. Followed by a overview of some personal projects I have made recently.</p>
+<p align="center">
+  A comprehensive overview of my programming skills and the application of principles in C#, Java, SQL, HTML/CSS, and JavaScript. This portfolio also highlights my experience with UML diagrams, flowcharts, and GitHub version control—alongside recent personal projects.
+</p>
 
-<br/>
-
-<h1 align="center">My most ambitious project to date, <b><i>Pi Piper</i></b></h1>
-
-<p align="center">The proposed app will fully digitize and automate the restaurant’s prep list and order management system. On the admin side of the app, it will compare prices between suppliers, generate the most cost-effective orders, and offer suggestions based on past data and current needs. Also, exclusively on the admin side will feature a prep list and ingredient CRUD tool. There will also be business insight tools by incorporating PowerBi and analyzing ingredient turnover. Development is only getting started, so keep up with my progress <a href="http://github.com/phollenback/Pi-Piper">here.</a></p>
+<h1 align="center">Pi Piper – Restaurant Prep and Inventory Automation</h1>
+<p align="center">
+  <b>Pi Piper</b> is my most ambitious project to date. It is a full-stack web application designed to digitize a restaurant's prep list and order management process. Features include supplier price comparisons, intelligent restocking suggestions, admin-only prep list CRUD tools, and ingredient turnover analytics using Power BI. <br/>
+  <a href="https://github.com/phollenback/Pi-Piper">Follow development on GitHub</a>.
+</p>
 
 <table>
-  <th>All employees use:</th>
-  <th>Admin only:</th>
   <tr>
-    <td align="center">
-      <h2>Prep List Creator</h3>
-      <img width="1423" height="300" alt="Image" src="https://github.com/user-attachments/assets/342f9843-dfb8-44d0-bbfe-3c41ea0faaf2" />
-    </td>
-    <td align="center">
-      <h2>Manager Dashboard</h3>
-      <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/76f30f03-c347-456c-951e-d66fadf50907" /></td>
+    <th>All Employees Use:</th>
+    <th>Admin Only:</th>
   </tr>
-        <tr></tr>
   <tr>
     <td align="center">
-      <h2>RecipeBook</h3>
-      <img width="1425" alt="Image" src="https://github.com/user-attachments/assets/e0b73e3a-d7dc-4e27-a653-8630319bae63" />
+      <h2>Prep List Creator</h2>
+      <img width="1423" height="300" src="https://github.com/user-attachments/assets/342f9843-dfb8-44d0-bbfe-3c41ea0faaf2" />
     </td>
     <td align="center">
-      <h2>Back of House Manager</h3>
-      <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/7414a7a4-e323-4b19-bef7-81fe506dde65" />
+      <h2>Manager Dashboard</h2>
+      <img width="1440" src="https://github.com/user-attachments/assets/76f30f03-c347-456c-951e-d66fadf50907" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>Recipe Book</h2>
+      <img width="1425" src="https://github.com/user-attachments/assets/e0b73e3a-d7dc-4e27-a653-8630319bae63" />
+    </td>
+    <td align="center">
+      <h2>Back of House Manager</h2>
+      <img width="1440" src="https://github.com/user-attachments/assets/7414a7a4-e323-4b19-bef7-81fe506dde65" />
     </td>
   </tr>
 </table>
-
-
-<br/>
 
 <h1>Resume Reputation</h1>
-<h2 align="center">Applying to 50 jobs a day like me? Give yourself a tool to make the process less cluttered.</h1>
-<p align="center">Resume-Reputation is a tool that anyone can use to keep track of what they submit to specific employers. There's become such a need to create thousands of instances of one resume so that applicants can try and find the "keyword sweetspot". On top of that, there is also a point system that works rewards points to applicants who follow good practice POST-applying. Points are rewarded for utilizing cover letters, follow up calls, emails, and all the things that will help to get you the job, not to mention there is lots of points for landing interviews, screening calls, getting job offers, etc. In the future I want to add a global and user leaderboard that allows users to compare there "Resume Reputation" to others. Use this app to save all your resume instances in one place and compare your resume reputation to others. Keep up with my progress <a href="https://github.com/phollenback/Resume-Rep">here.</a></p>
+<h2 align="center">Track and Optimize Your Job Hunt</h2>
+<p align="center">
+  <a href="https://github.com/phollenback/Resume-Rep">Resume Reputation</a> helps job seekers track submissions and monitor follow-ups. Built with Next.js and Supabase, it supports resume versioning, document uploads, and a point system that encourages best practices like follow-up emails and interviews. A global leaderboard is planned for future versions.
+</p>
 
-
-<br />
-
-<br/>
-<h2> The following are a few personal projects from the past couple years. </h2>
-<p><i>I set out to gain a better understanding of web servers and to learn some technologies I had not yet touched before these projects, as well as make something that I can use in my daily life.</i></p>
+<h2>Other Projects</h2>
 <table>
   <tr>
-     <td width="50%">
-      <b>For my own personal use:</b> I created a web service to help users catalog there collection and wantlist according to a vinyl marketplace called discogs. For this project, I attempted to create nearly the full application in react and next in an attempt to demonstrate how to upgrade a react application to a next application. Find all code <a href="https://github.com/phollenback/Recipe-Book](https://github.com/phollenback/Multi-Frontend-Discogs-Helper">here</a>.
+    <td width="50%">
+      <b>Discogs Helper</b>: A full-stack React and Node.js app that uses the Discogs API to sync and manage vinyl collections. Demonstrates upgrading React to Next.js and building modular, authenticated applications.  
+      <a href="https://github.com/phollenback/Multi-Frontend-Discogs-Helper">View code</a>
     </td>
     <td>
-      <img width="1412" alt="Image" src="https://github.com/user-attachments/assets/2dda16bd-6bf2-4985-b4ea-419552c21a3b" />
+      <img width="1412" src="https://github.com/user-attachments/assets/2dda16bd-6bf2-4985-b4ea-419552c21a3b" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>In progress:</b> I created a movie cataloger using react by utilizing a movie api, it enabled me to create website to search by title of the movie and create other functionality surrounding this. Such as a watchlist creator, or the phases I am currently working on, the login service and comparator component. The source code for this project can be found <a href="https://github.com/phollenback/MovieMan">here.</a></td>
+      <b>MovieMan</b>: A movie cataloging app built with React and an external movie API. Includes watchlist functionality, login services, and an in-progress movie comparator.  
+      <a href="https://github.com/phollenback/MovieMan">View code</a>
+    </td>
     <td width="50%">
-      <img width="1440" alt="Screenshot 2024-09-01 at 5 28 53 PM" src="https://github.com/user-attachments/assets/85834b28-58f4-4c5f-856e-911bf0ff5d56">
+      <img width="1440" src="https://github.com/user-attachments/assets/85834b28-58f4-4c5f-856e-911bf0ff5d56" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>Something you might want to use: </b> A terminal program developed in node that allows you to pick from a list of categories to get recipes, and all ingredients and instructions to cook. Some of these are pretty fancy though, so it may test your cooking abilites! Find the source code <a href="https://github.com/phollenback/Recipe-Book">here.</a>
+      <b>Node Recipe Book</b>: A terminal-based Node.js tool that allows users to select recipes by category and get detailed cooking instructions. Includes API integration, input validation, and terminal argument parsing.  
+      <a href="https://github.com/phollenback/Recipe-Book">View code</a>
     </td>
     <td width="50%">
-       <img width="543" alt="Screenshot 2024-09-03 at 7 41 32 PM" src="https://github.com/user-attachments/assets/982ce81f-53c2-4805-9d83-3cc256dd8f6f"></td>
+      <img width="543" src="https://github.com/user-attachments/assets/982ce81f-53c2-4805-9d83-3cc256dd8f6f" />
+    </td>
   </tr>
 </table>
 
+<h1 align="center">OOP Principle Review</h1>
+<p align="center">A demonstration of my understanding of object-oriented principles using real-world examples and UML diagrams.</p>
 
-<br />
-
-
-<h1 align = "center">A review of my knowledge of Object Orientated Principles:</h1> 
-<table>
-<tr>
-  
-<th width="250"><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Encapsulation/Encapsulation.md#encapsulation">Encapsulation</a></th>
-<th width="250"><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Polymorphism/PolyMorphismRM.md#polymorphism">Polymorphism</a></th>
-<th width="250"><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Inheritance/Readme.md#inheritence">Inheritence</a></th>
-<th width="250"><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Abstraction/Abstraction.md#abstraction">Abstraction</a></th>
-  
-</tr>
-<tr>
-<td>
-  
-* Why is Encapsulation an important part of OOP
-* Class diagram that represents Encapsulation
-
-</td>
-<td>
-
-* Class diagram
-* Enhancing Polymorphism with method overriding and overloading
-
-</td>
-<td>
-
-* How is Inheritence applied in class diagrams?
-* How I have applied Inheritence in my own work
- 
-</td>
-<td>
-
-* What is Abstraction
-* Examples in my own projects
-  
-</td>
-
-</tr> 
-</table>
-
-<br/>
-
-
-<br/>
-
-<h2 align="center">Other Projects:</h2>
 <table>
   <tr>
-  <th width="500">
-    <h2 align="center">HTML Project:</h3>
-    <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/69e92b39-bdb0-4b32-b1f5-2452d46b64ea">
-  </th>
-    <th width="500">
-      <h2 align="center">JAVA Store Console App</h1>
-      <img width="1000" src="https://github.com/phollenback/Skills-Overview/assets/145724342/27b4f6c6-1fe0-42a2-8ba3-805ba56d7de1">
-    </th>
-  
+    <th><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Encapsulation/Encapsulation.md#encapsulation">Encapsulation</a></th>
+    <th><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Polymorphism/PolyMorphismRM.md#polymorphism">Polymorphism</a></th>
+    <th><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Inheritance/Readme.md#inheritence">Inheritance</a></th>
+    <th><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Abstraction/Abstraction.md#abstraction">Abstraction</a></th>
+  </tr>
+  <tr>
+    <td>Explanation and class diagram example</td>
+    <td>Method overriding and overloading examples</td>
+    <td>Application in class hierarchy and my own code</td>
+    <td>Conceptual use and implementation in my apps</td>
+  </tr>
+</table>
+
+<h2 align="center">Additional Projects</h2>
+<table>
+  <tr>
+    <td>
+      <h3>HTML Project</h3>
+      <p>A multi-paged site about things to do in Phoenix. Demonstrates Bootstrap, CSS styling, and JavaScript interactivity.</p>
+      <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/69e92b39-bdb0-4b32-b1f5-2452d46b64ea">
+    </td>
+    <td>
+      <h3>Java Store Console App</h3>
+      <p>A CLI storefront with purchasing features. Demonstrates full OOP principles, class diagrams, and flowchart planning.</p>
+      <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/27b4f6c6-1fe0-42a2-8ba3-805ba56d7de1">
+    </td>
   </tr>
   <tr>
     <td>
-      A multi-paged HTML project about what there is to do in the Pheonix area.
-      What I displayed in this project: Bootstrap, CSS, and JavaScript knowledge.
+      <h3>C# Inventory Manager</h3>
+      <p>A WinForms application that demonstrates intuitive UI design and event-driven programming concepts.</p>
+      <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
     </td>
     <td>
-     A console application with a Store Front for the Gamer User to purchase and delete purchases. This project demonstrates my application of all OOP and UML and flowchart design.
+      <h3>SQL + C# CRUD App</h3>
+      <p>An inventory manager that connects to a SQL Server backend and supports dynamic CRUD operations through DataGridView.</p>
+      <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/2e6ca490-754d-48d6-a221-10235a36d725">
     </td>
   </tr>
- 
-</table>
-<table>
-  <tr>
-    <th width="500">
-    <h2 align="center">C# Inventory Project</h2><br>
-      <img align="center" src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
-    </th>
-    <th width="500">
-    <h2 align="cener">SQL Project:</h3>
-<img src="https://github.com/phollenback/Skills-Overview/assets/145724342/2e6ca490-754d-48d6-a221-10235a36d725">
-
-  </th>
-  </tr>
-  
-  <td>
-    WinForms app that demonstrates an ability to design event driven programs with a intuitive UI design.
-  </td>
-  <td>
-      SQL C# app that connects the database to the datagrid view and dynamically adds and supports CRUD operations.
-  </td>
 </table>
