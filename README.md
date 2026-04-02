@@ -10,7 +10,7 @@
   </tr>
 </table>
 <p align="center">
-For a view of some of my recent labs and projects, view a log I have kept of my work in the new year, <a href="">2026 log<a/>
+For a view of some of my recent labs and projects, view a log I have kept of my work in the new year, <a href="2026-log.md">2026 log</a>
 </p>
 <p align="center">
   A comprehensive overview of my programming skills and the application of principles in C#, Java, SQL, HTML/CSS, and JavaScript. This portfolio also highlights my experience with UML diagrams, flowcharts, and GitHub version control—alongside recent personal projects.
