@@ -9,55 +9,99 @@
     <th><img src="https://github.com/user-attachments/assets/4f457e11-030b-4c75-ac88-2221da33d615" width="105" height="100"></th>
   </tr>
 </table>
+
 <p align="center">
-For a view of some of my recent labs and projects, view a log I have kept of my work in the new year, <a href="2026-log.md">2026 log</a>
-</p>
-<p align="center">
-  A comprehensive overview of my programming skills and the application of principles in C#, Java, SQL, HTML/CSS, and JavaScript. This portfolio also highlights my experience with UML diagrams, flowcharts, and GitHub version control—alongside recent personal projects.
+View recent work and labs in my <a href="2026-log.md">2026 log</a>
 </p>
 
-## Pi Piper – Restaurant Prep and Inventory Automation
 <p align="center">
-  <b>Pi Piper</b> is my most ambitious project to date. It is a full-stack web application designed to digitize a restaurant's prep list and order management process. Features include supplier price comparisons, intelligent restocking suggestions, admin-only prep list CRUD tools. <br/>
-  <a href="https://github.com/phollenback/Pi-Piper">Follow development on GitHub</a>.
+A focused overview of my development experience across full-stack applications, cloud deployments, and foundational software engineering principles.
 </p>
 
-## Grailtopia - Discogs Collection Helper
-<p align="center">
-  Discogs Helper is a full-stack web application designed to help vinyl collectors manage their music collections and wantlists more effectively. The application integrates directly with the Discogs API to synchronize a user’s existing collection and wantlist while also providing powerful tools to search, organize, and explore one of the largest music databases in the world. <a href="https://github.com/phollenback/discogs-helper">View code</a>
+---
 
-</p>
+## Featured Projects
 
-## Resume Reputation
-<p align="center">
-  <a href="https://github.com/phollenback/Resume-Rep">Resume Reputation</a> helps job seekers track submissions and monitor follow-ups. Built with Next.js and Supabase, it supports resume versioning, document uploads, and a point system that encourages best practices like follow-up emails and interviews. A global leaderboard is planned for future versions.
-</p>
-
-<h2>Other POC's or Portfolio Projects:</h2>
-<table>
+<table align="center">
   <tr>
-    <td>
-      <b>Resume Reputation</b>: helps job seekers track submissions and monitor follow-ups. Built with Next.js and Supabase, it supports resume versioning, document uploads, and a point system that encourages best practices like follow-up emails and interviews. A global leaderboard is planned for future versions.
-      <a href="https://github.com/phollenback/discogs-helper">View code</a>
+    <td width="33%" align="center">
+      <b>Pi Piper</b><br/>
+      Restaurant prep and inventory automation platform with supplier comparison and operational insights.<br/>
+      <a href="https://github.com/phollenback/Pi-Piper">View Project</a>
     </td>
-    <td>
-      <b>MovieMan</b>: is a lightweight Single‑Page Application (SPA) built specifically as a proof‑of‑concept environment for testing cloud deployments, infrastructure features, and developer experience (DX) workflows. Rather than focusing on application complexity, the project serves as a controlled, real‑world workload for validating how frontend applications behave when deployed to cloud infrastructure.
-      <a href="https://github.com/phollenback/MovieMan">View code</a>
+    <td width="33%" align="center">
+      <b>Grailtopia</b><br/>
+      Discogs-integrated platform for syncing, managing, and analyzing vinyl collections in real time.<br/>
+      <a href="https://github.com/phollenback/discogs-helper">View Project</a>
+    </td>
+    <td width="33%" align="center">
+      <b>Bird Watchers USA</b><br/>
+      Image classification app using Google Vision API with secure auth and AWS-backed infrastructure.<br/>
+      <a href="https://github.com/phollenback/bird-watchers-usa">View Project</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <b>Node Recipe Book</b>: A terminal-based Node.js tool that allows users to select recipes by category and get detailed cooking instructions. Includes API integration, input validation, and terminal argument parsing.  
-      <a href="https://github.com/phollenback/Recipe-Book">View code</a>
+    <td width="33%" align="center">
+      <b>Slack Budget Tool</b><br/>
+      Full-stack budgeting tool with Slack integration, built using Angular and PostgreSQL for real-time expense tracking.<br/>
+      <a href="https://github.com/phollenback/slack-budget-tool">View Project</a>
     </td>
-    <td width="50%">
-      <img width="543" src="https://github.com/user-attachments/assets/982ce81f-53c2-4805-9d83-3cc256dd8f6f" />
+    <td width="33%" align="center">
+      <b>Console Admin App</b><br/>
+      Java-based backend management tool emphasizing UML diagrams and flowcharts to model system design and logic.<br/>
+      <a href="https://github.com/phollenback/Console-Admin-App">View Project</a>
+    </td>
+    <td width="33%" align="center">
+      <b>MovieMan</b><br/>
+      Lightweight SPA used to test cloud deployments, CI/CD workflows, and infrastructure patterns.<br/>
+      <a href="https://github.com/phollenback/Movie-Man">View Project</a>
     </td>
   </tr>
 </table>
 
+---
+
+## Additional Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Node Recipe Book</b><br/>
+      CLI-based Node.js tool for browsing and retrieving recipes with API integration.<br/>
+      <a href="https://github.com/phollenback/Recipe-Book">View</a>
+    </td>
+    <td width="50%">
+      <b>Resume Reputation</b><br/>
+      Job tracking app with resume versioning and engagement scoring using Next.js and Supabase.<br/>
+      <a href="https://github.com/phollenback/Resume-Rep">View</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>HTML/CSS Project</b><br/>
+      Multi-page Bootstrap site demonstrating responsive design and JS interactivity.
+    </td>
+    <td>
+      <b>Java Store Console App</b><br/>
+      CLI storefront showcasing OOP design, flowcharts, and class structure.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>C# Inventory Manager</b><br/>
+      WinForms application demonstrating UI design and event-driven programming.
+    </td>
+    <td>
+      <b>SQL + C# CRUD App</b><br/>
+      Database-driven app supporting dynamic CRUD operations with DataGridView.
+    </td>
+  </tr>
+</table>
+
+---
+
 <h1 align="center">OOP Principle Review</h1>
-<p align="center">A demonstration of my understanding of object-oriented principles using real-world examples and UML diagrams.</p>
+<p align="center">Applied demonstrations of core object-oriented principles using real-world examples and UML diagrams.</p>
 
 <table>
   <tr>
@@ -67,37 +111,9 @@ For a view of some of my recent labs and projects, view a log I have kept of my 
     <th><a href="https://github.com/phollenback/Skills-Overview/blob/phollenback-patch-1/Abstraction/Abstraction.md#abstraction">Abstraction</a></th>
   </tr>
   <tr>
-    <td>Explanation and class diagram example</td>
-    <td>Method overriding and overloading examples</td>
-    <td>Application in class hierarchy and my own code</td>
-    <td>Conceptual use and implementation in my apps</td>
-  </tr>
-</table>
-
-<h2 align="center">Additional Projects</h2>
-<table>
-  <tr>
-    <td>
-      <h3>HTML Project</h3>
-      <p>A multi-paged site about things to do in Phoenix. Demonstrates Bootstrap, CSS styling, and JavaScript interactivity.</p>
-      <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/69e92b39-bdb0-4b32-b1f5-2452d46b64ea">
-    </td>
-    <td>
-      <h3>Java Store Console App</h3>
-      <p>A CLI storefront with purchasing features. Demonstrates full OOP principles, class diagrams, and flowchart planning.</p>
-      <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/27b4f6c6-1fe0-42a2-8ba3-805ba56d7de1">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>C# Inventory Manager</h3>
-      <p>A WinForms application that demonstrates intuitive UI design and event-driven programming concepts.</p>
-      <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/570e31b0-9d93-476f-b187-986d6d8fdd8e">
-    </td>
-    <td>
-      <h3>SQL + C# CRUD App</h3>
-      <p>An inventory manager that connects to a SQL Server backend and supports dynamic CRUD operations through DataGridView.</p>
-      <img src="https://github.com/phollenback/Skills-Overview/assets/145724342/2e6ca490-754d-48d6-a221-10235a36d725">
-    </td>
+    <td>Encapsulation patterns and class design</td>
+    <td>Overriding and polymorphic behavior</td>
+    <td>Hierarchical relationships in code</td>
+    <td>Abstraction in system design</td>
   </tr>
 </table>
